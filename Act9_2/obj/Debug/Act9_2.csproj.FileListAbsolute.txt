@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\Act9_2\Act9_2\bin\Debug\Act9_2.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\Act9_2\Act9_2\bin\Debug\Act9_2.exe
+C:\Users\Nemanja Djordjevic\source\repos\Act9_2\Act9_2\bin\Debug\Act9_2.pdb
+C:\Users\Nemanja Djordjevic\source\repos\Act9_2\Act9_2\obj\Debug\Act9_2.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\Act9_2\Act9_2\obj\Debug\Act9_2.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\Act9_2\Act9_2\obj\Debug\Act9_2.exe
+C:\Users\Nemanja Djordjevic\source\repos\Act9_2\Act9_2\obj\Debug\Act9_2.pdb
